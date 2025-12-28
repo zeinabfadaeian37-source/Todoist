@@ -1,19 +1,27 @@
-# 📝 Todo List Application
+📝 Todo List Application
 
-یک اپلیکیشن ساده، مدرن و کاملاً واکنش‌گرا برای مدیریت کارهای روزانه که با استفاده از **HTML5**، **CSS3** و **Vanilla JavaScript** بدون استفاده از هیچ فریم‌ورکی ساخته شده است.
+A clean and modern Todo List app built with HTML5, CSS3, and Vanilla JavaScript. Fully responsive and designed to provide a smooth task-management experience without relying on any external frameworks.
 
-## ✨ ویژگی‌های کلیدی
-- **مدیریت تسک‌ها:** قابلیت افزودن کارهای جدید به لیست به صورت آنی.
-- **تغییر وضعیت:** امکان علامت‌گذاری کارهای انجام شده (Mark as Completed) برای مدیریت بهتر.
-- **حذف تسک:** قابلیت حذف کارهای اضافه یا انجام شده از لیست.
-- **طراحی ریسپانسیو:** بهینه‌سازی شده برای موبایل و دسکتاپ با استفاده از Media Queries.
-- **تعامل با DOM:** نمایش تسلط بر مفاهیم اصلی جاوااسکریپت و مدیریت رویدادها (Event Handling).
+✨ Features
 
-## 🛠 تکنولوژی‌های استفاده شده
-- **HTML5:** برای ساختاردهی عناصر لیست و فرم ورودی.
-- **CSS3:** طراحی رابط کاربری (UI) و استفاده از انیمیشن‌های ساده برای حذف و اضافه کردن.
-- **JavaScript (ES6+):** مدیریت منطق برنامه، ذخیره‌سازی موقت و ایجاد تعامل کاربر.
+Add Tasks: Quickly add new items to your list.
 
+Mark as Completed: Toggle task status to stay organized.
 
-## 🚀 نحوه اجرا
-مشاهده آنلاین: [https://zeinabfadaeian37-source.github.io/Todoist/]
+Delete Tasks: Easily remove completed or unwanted items.
+
+Responsive UI: Optimized for all screen sizes using CSS media queries.
+
+Interactive DOM Handling: Built with pure JavaScript to showcase event handling and dynamic updates.
+
+🛠 Tech Stack
+
+HTML5 – Structure and layout
+
+CSS3 – UI styling + subtle animations
+
+JavaScript (ES6+) – App logic and user interactions
+
+🚀 Live Demo
+
+https://zeinabfadaeian37-source.github.io/Todoist
